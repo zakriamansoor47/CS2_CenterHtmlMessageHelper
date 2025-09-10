@@ -10,7 +10,7 @@ public partial class SLAYER_KillStreak : BasePlugin, IPluginConfig<SLAYER_KillSt
     private bool _isSorting = false;
 
     /// <summary>
-    /// Tick function to display the combined center message
+    /// Tick function to display the combined center message. Add this to OnTick Listener function
     /// </summary>
     private void PrintCenterMessageTick()
     {
