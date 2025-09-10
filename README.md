@@ -15,5 +15,5 @@ A very useful helpers functions to manage CenterHtmlMessages.
 
 ## Example Usage:
 
-[SLAYER_KillStreak](https://github.com/zakriamansoor47/SLAYER_KillStreak)
+### [SLAYER_KillStreak](https://github.com/zakriamansoor47/SLAYER_KillStreak)
 
